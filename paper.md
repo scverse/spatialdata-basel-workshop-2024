@@ -1,314 +1,256 @@
 ---
-title: 'BioHackrXiv template this is an example of a (too) long title mpla mpla mpla mpla mpla mpla mpla mpla mpla mpla mpla c wjfc wjknwjek nwjkwen jk'
-title_short: 'Logic Programming for the Biomedical Sciences'
+title: "1st SpatialData Developer Workshop"
+title_short: "SpatialData Workshop"
 tags:
-  - logic programming
+  - spatial omics
+  - spatial transcriptomics
+  - Bioconductor
+  - interoperability
 authors:
-  - name: Chris Mungall
-    orcid: 0000-0002-6601-2165
+  - name: Luca Marconato
+    orcid: 0000-0003-3198-1326
     affiliation: 1
-  - name: Hirokazu Chiba
-    affiliation: 2
-    orcid: 0000-0003-4062-8903
-  - name: Shuichi Kawashima
-    affiliation: 2
-    orcid: 0000-0001-7883-3756
-  - name: Yasunori Yamamoto
-    affiliation: 2
-    orcid: 0000-0002-6943-6887
-  - name: Pjotr Prins
-    orcid: 0000-0002-8021-9162
-    affiliation: 3
-  - name: Nada Amin
+  - name: Kevin A. Yamauchi
+    orcid: 
+    affiliation: 2, 3
+  - name: Mark S. Keller
+    orcid: 
     affiliation: 4
-    orcid: 0000-0002-0830-7248
-  - name: Deepak Unni
+  - name: Grzegorz Bokota
+    orcid: 
     affiliation: 5
-    orcid: 0000-0002-3583-7340
-  - name: <nobr>William&nbsp;E.&nbsp;Byrd</nobr>
+  - name: Tong Li
+    orcid: 
     affiliation: 6
-    orcid: 0000-0003-4730-5293
+  - name: Sonja Stockhaus
+    orcid: 
+    affiliation: 7
+  - name: Benjamin Rombaut
+    orcid: 
+    affiliation: 8, 9, 10
+  - name: Louise Deconinck
+    orcid: 
+    affiliation: 8, 9, 10
+  - name: Chiara Schiller
+    orcid: 
+    affiliation: 11
+  - name: Yixing E. Dong
+    orcid: 
+    affiliation: 12
+  - name: Vincent J. Carey
+    orcid: 
+    affiliation: 13, 4
+  - name: Helena L. Crowell
+    orcid: 
+    affiliation: 14
+  - name: Dario Righelli
+    orcid: 
+    affiliation: 15
+  - name: Wouter-Michiel Vierdag
+    orcid: 
+    affiliation: 1, 16
+  - name: Miguel A. Ibarra-Arellano
+    orcid: 
+    affiliation: 11
+  - name: Lotte Pollaris
+    orcid: 
+    affiliation: 8, 9, 10
+  - name: Quentin Blampey
+    orcid: 
+    affiliation: 17, 18
+  - name: Clarence Mah
+    orcid: 
+    affiliation: 19, 20
+  - name: Lehner Laurens
+    orcid: 
+    affiliation: 7
+
 affiliations:
-  - name: Environmental Genomics and Systems Biology, Lawrence Berkeley National Laboratory, Berkeley, CA, USA
+  - name: Genome Biology Unit, European Molecular Biology Laboratory, Heidelberg, Germany
     index: 1
-  - name: Database Center for Life Science, Research Organization of Information and Systems, Japan
+  - name: Department of Biosystems Science and Engineering, ETH Zurich
     index: 2
-  - name: Department of Genetics, Genomics and Informatics, The University of Tennessee Health Science Center, Memphis, TN, USA.
+  - name: Swiss Institute of Bioinformatics
     index: 3
-  - name: Harvard University, USA
+  - name: Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA
     index: 4
-  - name: Berkeley Lab, USA
+  - name: Faculty of Mathematics, Informatics and Mechanics, University of Warsaw, Warsaw, Poland
     index: 5
-  - name: University of Alabama at Birmingham, USA
+  - name: Wellcome Sanger Institute, UK
     index: 6
-date: 3 March 2020
+  - name: Institute of Computational Biology, Helmholtz Munich, Germany
+    index: 7
+  - name: Department of Applied Mathematics, Computer Science and Statistics, Ghent University, Ghent, Belgium
+    index: 8
+  - name: Data Mining and Modelling for Biomedicine, VIB-UGent Center for Inflammation Research, Ghent, Belgium
+    index: 9
+  - name: VIB Center for AI and Computational Biology, Ghent, Belgium
+    index: 10
+  - name: Institute for Computational Biomedicine, Heidelberg, Germany
+    index: 11
+  - name: CHUV, Lausanne, Switzerland
+    index: 12
+  - name: Bioconductor
+    index: 13
+  - name: CNAG, Barcelona, Spain
+    index: 14
+  - name: University of Naples “Federico II”
+    index: 15
+  - name: Heidelberg University
+    index: 16
+  - name: UPS
+    index: 17
+  - name: IGR
+    index: 18
+  - name: SSCIC
+    index: 19
+  - name: UCSD
+    index: 20
+
+
+date: 12 November 2024
 cito-bibliography: paper.bib
-event: Fukuoka2019
-biohackathon_name: "NBDC/DBCLS BioHackathon"
-biohackathon_url:   "http://2019.biohackathon.org/"
-biohackathon_location: "Fukuoka, Japan, 2019"
-group: Logic programming group
+event: SpatialDataWorkshopNovember2024
+biohackathon_name: "1st SpatialData Developer Workshop"
+biohackathon_url: "https://docs.google.com/document/d/11E491w7hlWk_WyMs3bjJLUWzem_FpJxb2hDpRBuQSOo/edit?tab=t.0"
+biohackathon_location: "Basel, Switzerland, 2024"
+group: Code repository
 # URL to project git repo --- should contain the actual paper.md:
-git_url: https://github.com/biohackrxiv/bhxiv-gen-pdf
+git_url: https://github.com/scverse/spatialdata-basel-workshop-2024
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: Chris Mungall & Hirokazu Chiba \emph{et al.}
+authors_short: SpatialData Developer Workshop participants
 ---
 
+<!-- Note that you can use https://sparontologies.github.io/cito/current/cito.html#objectproperties
+for more detailed citations for text mining e.g. [@uses_method_in:marconato_spatialdata_2024] -->
 
-<!--
-
-The paper.md, bibtex and figure file can be found in this repo:
-
-  https://github.com/journal-of-research-objects/Example-BioHackrXiv-Paper
-
-To modify, please clone the repo. You can generate PDF of the paper by
-pasting above link (or yours) in
-
-  http://biohackrxiv.genenetwork.org/
-
--->
+<!-- # Abstract
+This pre-print outlines the results of the "1st SpatialData workshop," organized by the SpatialData team and funded by the Chan Zuckerberg Initiative (CZI). The event gathered experts to advance spatial omics through four hackathon tracks: R interoperability, visualization interoperability, scalability and benchmarking, and ergonomics.
+Key achievements include integrating R with the SpatialData Python framework, developing a tool-agnostic configuration for visualization, addressing computational bottlenecks, and enhancing usability through improved documentation and interfaces. The workshop fostered collaboration, creating infrastructure prototypes and identifying interoperability challenges. Documented on GitHub, these efforts involved 20 participants from the US and Europe, promoting a FAIR ecosystem of spatial omics tools. -->
 
 # Introduction
 
-As part of the one week Biohackathion 2019 in Fukuoka Japan, we formed
-a working group on logic programming for the biomedical sciences.
-Logic programming is understood by many bioinformaticians when it is
-presented in the form of relational SQL queries or SPARQL
-queries. More advanced logic programming, however, is underutilized in
-bioinformatics.  Prolog, for example, is a high-level programming
-language that has its roots in first-order logic or first-order
-predicate calculus.  Another example, miniKanren, is an embedded
-Domain Specific Language for logic programming. Core miniKanren is
-exceptionally simple, with only three logical operators and one
-interface operator [@uses_method_in:reasoned2nd].
+This pre-print is aimed at sharing the results of the “1st SpatialData workshop”, an in-person event organized by the SpatialData team and funded by the Chan Zuckerberg Initiative (CZI) that brought together expertise from different fields, including methods developers of a variety of tools for single-cell and spatial omics[@marconatoSpatialDataOpenUniversal2024a]. The purpose is to explore new directions to advance the field of spatial omics. By leveraging multiple programming languages, including Python, R, and JavaScript, the event focuses on four central hackathon tracks:
 
-![Logic programming resolver traverses the solution space to find all matches \label{fig}](./logic-programming.png)
+1. **R interoperability**: This track aims to enhance the integration and compatibility of R and Python with the SpatialData Python framework by using the language-agnostic SpatialData Zarr file format (which follows, when possible, the NGFF specification)[@mooreOMEZarrCloudoptimizedBioimaging2023a], [@mooreOMENGFFNextgenerationFile2021a].  
+2. **Visualization interoperability**: This track is dedicated to improving the seamless integration of visualization tools across different systems and programming languages via a tool-agnostic view configuration.  
+3. **Scalability and benchmarking**: Participants will identify, benchmark, and address computational bottlenecks within the SpatialData framework.  
+4. **Ergonomics and user-friendliness**: This track focuses on enhancing the usability and accessibility of the SpatialData framework for both first-time users and third-party developers.
 
-![An SVG example](./test.svg)
+These tracks aim to foster collaboration and innovation, driving advancements in the analysis and infrastructure of spatial omics and imaging data.
 
-The introduction of logic programming is particularly relevant in the
-context of multi-model data representations where data can be accessed
-in memory as free data structures, but also on disk where data can be
-represented as tables, trees (documents), and graphs. In
-bioinformatics we can make use of all these different data sources and
-have a query engine that can mine them all efficiently.
-
-Logic programming is well-suited for biological research. Essentially,
-a researcher writes a number of statements that include variables
-representing unknown information.  The logic engine then goes through
-the solution space (all data) to find possible matches (see figure
-\ref{fig}). Much more detail on the rationale and implementations of
-miniKanren and logic programming are well summarized in Byrd's book
-\emph{The Reasoned Schemer, Second Edition} [@agreesWith:reasoned2nd], PhD thesis
-[@ByrdPhD], and [online](https://www.youtube.com/watch?v=eQL48qYDwp4)
-[talks](https://www.youtube.com/watch?v=o3AHnyEf7IE).
-
-The `Logic Programming' working group at the 2019 edition of the
-annual Japanese BioHackathon applied logic programming to various problems.
-The working group:
-\begin{itemize}
-\item researched state-of-the-art mapping between graph stores and logic programming;
-\item created methods for bridging between SPARQL and in-memory data representations using Prolog;
-\item extended the Biolink model;
-\item and added Relational Biolink type inference for mediKanren.
-\end{itemize}
-
-<!--
 # Results
--->
 
-## Research of state-of-the-art logic programming facilities for SPARQL
+All the issues were tracked in a public project board accessible here: [https://github.com/orgs/scverse/projects/51/views/1](https://github.com/orgs/scverse/projects/51/views/1).
 
-The working group researched current solutions for combining logic
-programming with SPARQL.
-[ClioPatria](http://www.semantic-web-journal.net/system/files/swj1074.pdf)
-is an in-memory RDF quad-store tightly coupled with SWI-Prolog by Jan
-Wielemaker, the main author of SWI-Prolog
-[@WielemakerBHO15]. SWI-Prolog is published under a BSD license, and
-there even exist bindings for
-[ClioPatria and Python](http://wi.hwtk.de/WLP2018/Papers/WLP_2018_paper_4.pdf),
-for example, although we were unable to locate the source code. We
-think ClioPatria and SWI-Prolog are particularly useful for teaching,
-and for (in-memory) semantic web applications. SWI-Prolog comes with
-client libraries for SQL and SPARQL queries.
+## R interoperability track
 
-## Accessing biological databases using SPARQLProg
+We took a two-sided approach towards facilitating interoperability with Python’s SpatialData: 
 
-<!--
-    State the problem you worked on
-    Give the state-of-the art/plan
-    Describe what you have done/results starting with The working group created...
-    Write a conclusion
-    Write up any future work
--->
+- Using existing Python functionality through *reticulate* (e.g., readers and writers  
+  for data from different manufacturers, coordinate system alignment etc.) \[[\#66](https://github.com/HelenaLC/SpatialData/pull/66)\]  
+- Drafting an out-of-memory representation of SpatialData components in R that relies on a *DelayedArray* (*Rarr*) for .zarr, and an *arrow*\-based interface for Parquet.
 
-A number of biological databases make their data available in RDF
-format, supporting SPARQL access---for example,
-[Uniprot](https://www.uniprot.org/),
-[NCBI Pubchem](https://pubchemdocs.ncbi.nlm.nih.gov/rdf) and the
-[EBI RDF platform](https://www.ebi.ac.uk/rdf/).
-SPARQL provides a subset of what logic programming can do.
-However, SPARQL queries lack the property of composability and there is no way to
-reuse modular components across queries.  For example, to execute a
-range query on a genomic region using the FALDO model [@agreesWith:Bolleman2016]
-requires authoring a complex query over many triples. If we then wish
-to reuse parts of that query in a more complex query, we have to
-manually compose them together.
+A few specific outputs include:
 
-The working group added codes to
-[SPARQLProg](https://github.com/cmungall/sparqlprog) which provides a
-way to define modular query components using logic programming.
-SPARQLProg is written in
-SWI-Prolog and has a Python interface library. All code has been made
-available in the example directory of
-SPARQLProg which provides
-sophisticated mapping of logic queries to SPARQL.
+- Making available *scverse*’s example datasets through Bioconductor’s OSN (Open Storage Network), with support for caching using *BiocFileCache* \[[\#58](https://github.com/HelenaLC/SpatialData/pull/58)\]  
+- We allow the *anndata*[@Virshup2021.12.16.473007] table in a *SpatialData* object to be read using either *reticulate* and *zellkonverter* or using the *anndataR* package, which relies on a .zarr reader native to R (*pizzarr*). \[[\#62](https://github.com/HelenaLC/SpatialData/pull/62)\]  
+- We have implemented an *ImageArray* R class to recognize single- and multi-scale images stored in the SpatialData .zarr store. Multiscale images may be used to pick the optimal resolution for visualization lazily.   
+- We have implemented specific *ggplot2*\-based image visualization methods to optimize the plotting of images even further. Transformations are then picked from the .zattrs of the image slot and used to transform the coordinate system of the images. Future work will define further utilities to simultaneously crop and query layers of spatial elements using, e.g., boxes \[[\#73](https://github.com/HelenaLC/SpatialData/pull/73)\].   
+- We started with implementing some utility functions to work with annotations and tables. \[[\#74](https://github.com/HelenaLC/SpatialData/pull/74)\]  
+- We have a draft vignette to demonstrate the available utilities and visualizations for various spatial technologies using the *SpatialData* Bioconductor class. Such detailed documentation is crucial to onboard new users and developers to join the ongoing effort to improve and complete the class infrastructure.
 
-For example, a 4-part predicate `feature_in_range` can be composed
-with a binary \
-`has_mouse_ortholog` predicate:
+Taken together, we hope that these efforts will provide a baseline for future developments across the R/Bioconductor community, such as the implementation of statistical methods for these data, visualization suits, and cross-language analysis pipelines that leverage R’s rich ecosystem of statistical methods, and Python for ML-based and imaging analysis. And, ultimately, help bridge the scverse and Bioconductor software ecosystems by making data analysis tools accessible for users of either framework. The current state of matter is available [here](https://github.com/HelenaLC/SpatialData).   
+ 
+![Example of visualization of SpatialData Zarr datasets from R. Top row: Visium HD mouse intestine dataset (from [https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-libraries-of-mouse-intestine](https://www.10xgenomics.com/datasets/visium-hd-cytassist-gene-expression-libraries-of-mouse-intestine)). Bottom row, right: MERFISH prototype pipeline, mouse brain [@long2023spacetxroadmapbenchmarkingspatial]](fig1.png)
 
-```
-    feature_in_range(grch38:"X", 10000000, 20000000, HumanGene),
-    has_mouse_ortholog(HumanGene, MouseGene)
-```
+## Visualization interoperability track
 
-This will compile down to a more complex SPARQL query, and execute it against a remote endpoint.
+This track focused on enabling visualization tools to interoperate by exchanging configurations using a tool-agnostic format based on a grammar of graphics approach. While in the visualization field there exist approaches with similar goals [@7539624], [@mcnutt2022grammarruleallsurvey], to our knowledge none exist that support multidimensional array-based data such as multi-channel images, nor any that would be able to consider SpatialData-specific metadata such as coordinate systems/transformations. 
 
-SPARQLProg now includes bindings for many common biological SPARQL
-endpoints. As part of this hackathon we developed codes to access RDF
-databases of MBGD [@Chiba2015], KEGG OC, TogoVar, JCM, Allie, EBI
- BioSamples, UniProt, and DisGeNET [@Queralt2016]. Future work includes using these
-Prolog codes as building blocks for integrative analysis.
+We spent the first half of the hackathon discussing considerations for a solution to this problem. We created a list containing, for instance, the fact that users might want to visualize data from multiple SpatialData objects, may want to include multiple subplots, or may want visualization elements such as scale bar dimensions to be relative to figure canvas size.  We also discussed discrepancies between terminology in the different ecosystems and began a glossary to resolve them. Ultimately, visualization interoperability may also include aspects like interactivity.
 
-## Extending the Biolink Model
+While keeping these considerations in mind, we began by narrowing our scope to focus on the interoperability of figures that can already be generated using the `spatialdata-plot` library. We used the existing spatialdata-plot API to construct a basic figure using the \`blobs\` example SpatialData object, with the figure containing one image channel, shapes, and points (colored by a table column). Next, we converted the “plotting tree” representation used by spatialdata-plot internally to a Python dictionary which we subsequently saved as JSON.
 
-<!--
-    State the problem you worked on
-    Give the state-of-the art/plan
-    Describe what you have done/results starting with The working group created...
-    Write a conclusion
-    Write up any future work
--->
+We compared this plotting tree JSON representation and an example Vega JSON specification in side-by-side text editors. Step-by-step, we identified analogous concepts between spatialdata-plot and Vega and adopted the Vega keywords and terminology where possible. We can now consider this more Vega-like representation of the plotting tree as a target interoperable representation for the ecosystem of SpatialData visualization tools to communicate.
 
-The [Biolink Model](https://github.com/biolink/biolink-model) (see
-above) is a data model developed for representing biological and
-biomedical knowledge. It includes a schema and generated objects for
-the data model and upper ontology. The BioLink Model was designed with
-the goal of standardizing the way information is represented in a
-graph store, regardless of the formalism used. The working group
-focused on extending this model to support representation of a wide
-variety of knowledge.
+We spent the second half of the hackathon completing independent tasks in parallel with the goal of developing a Python package containing utilities for conversion of the interoperable visualization config format. We created a GitHub repository for this package and compiled a list of follow-up tasks ([https://github.com/keller-mark/spatialdata-vis-interop/issues](https://github.com/keller-mark/spatialdata-vis-interop/issues)). These include testing “roundtrip” processes that begin with a tool-specific configuration, convert to the tool-agnostic representation, and finally convert back to the tool-specific format. Both at the configuration and the visualization levels these representations should match to achieve interoperability. Between tools, we acknowledge that there will be slight differences in visual representations, but core aspects such as coordinate transformations should match.  
 
-The following tasks were accomplished as part of the BioHackathon:
+![Left: the plot used for testing, combining images, shapes, points and various annotations plotted on top of them. Right: the serialization of the plotting tree, containing all the parameters available for reproducing the plot.](fig2.png)
 
-\begin{enumerate}
-\item Represent datasets and their related metadata
-\item Represent family and pedigree information to support clinical knowledge
-\item Make the provenance model more rich and descriptive
-\end{enumerate}
+## Benchmarking and scalability track
 
-(note the list is written in embedded LaTeX)
+This track focused on Identifying, benchmarking, and addressing computational bottlenecks in the SpatialData framework. Toward this goal, we curated a list of 12 issues related to scalability and performance, ranging from new documentation to specific code optimizations. An initial introduction slide deck introduces the various issues and possible solutions. We discuss 5 specific contributions:
 
-For future work, the group will ensure that the new classes added to
-the model will have appropriate mappings to other schemas and
-ontologies.
+The developer documentation of SpatialData was extended to include links to learning resources. We also worked on a more general and up-to-date profiling and performance in Python guide, based on the practical experiences of the developers present at the hackathon. [hackmd](https://hackmd.io/@D9GB-ZDcTQyFd7U5aMmk5g/ryY8fngfkx)   
+[https://gist.github.com/Czaki/430a3b59e1a174e34401c37035c1529c](https://gist.github.com/Czaki/430a3b59e1a174e34401c37035c1529c). 
 
-##  Relational Biolink type inference for mediKanren
+SpatialData makes use of Dask for code parallelism. New documentation was added to showcase working with an explicit Dask cluster and worker management, linking heavy computational analysis workflows in Dask and the official Dask Performance documentation. [https://github.com/scverse/spatialdata/issues/768](https://github.com/scverse/spatialdata/issues/768). 
 
-<!--
-    State the problem you worked on
-    Give the state-of-the art/plan
-    Describe what you have done/results starting with The working group created...
-    Write a conclusion
-    Write up any future work
+In order to benchmark at a sufficient scale, a performant artificial dataset needed to be created. Napari met such a challenge in the past so its [code](https://github.com/napari/napari/blob/main/napari/benchmarks/utils.py) was used as inspiration to create datasets better reflecting typical large spatialdata object. Using these new benchmark functions, an initial benchmark suite was setup using the airspeed-velocity framework ([asv](https://github.com/airspeed-velocity/asv/)) in [\#784](https://github.com/scverse/spatialdata/pull/784).
 
-* Remote member Nada Amin, Chris Mungall, Deepak Unni, Will Byrd
+As a first benchmarking example, we reproduced an observed problem of performance when subsetting objects with many points using query methods. These query methods were benchmarked with and without table and points elements and using the new artificial datasets ranging from image size (100, 1000, 10\_000). This gave a test that reproduced the behavior seen in the real-world Xenium example dataset. It allows testing new solutions such as using spatial indexing and also lays the groundwork for additional benchmark tests. 
 
--->
+Using the cProfile package from Python, we’ve managed to identify the slowness caused by the querying step of \`points\` element. The simple but dirty solution is to subset \`points\` before querying ([\#777](https://github.com/scverse/spatialdata/pull/777)). In the long term, we have several options. One will be indexing the points element properly, so each query won’t need to look through the whole object to fetch a small bit. This part was partially discussed in the hackathon. The other solution is to do the querying in parallel. And this can happen internally inside the spatialdata package using Dask or externally e.g. one thread query in a subset of the whole SpatialData object. We’ve chosen to implement the later version. It was implemented as a [subworkflow](https://github.com/BioinfoTongLI/modules/blob/develop/subworkflows/sanger/parallelspatialdataquery/main.nf) in Nextflow.  
 
-miniKanren is an embedded Domain Specific Language for logic
-programming.  The goal was to implement a relational type inferencer
-for the [Biolink Model](https://biolink.github.io/biolink-model/) in
-miniKanren, which can be integrated into mediKanren. The working group
-added a `yaml` subdirectory to the mediKanren GitHub page, and created
-multiple files in https://github.com/webyrd/mediKanren/yaml where
-`yaml2sexp.py` generates the `biolink.scm` file which contains an
-s-expression version of the Biolink yaml file. `yaml.scm` contains
-miniKanren relations, and Chez Scheme code that generates miniKanren
-relations based on `biolink.scm`. These are giant miniKanren `conde`
-clauses that can be thought of as relational tables.  `yaml.scm` also
-contains tests for the relations.
+![Profiling visualization obtained form gprof2dor \+ graphviz, used to identify the computational bottleneck for querying points in the SpatialData framework.](fig3.png)
 
-Future work includes:
+## Ergonomics and user-friendliness track
 
-1. integrating this work into the Racket mediKanren code;
-2. integrating with the data categories in the KGs;
-3. and creating query editor with decent type error messages, autocompletion,
-   query synthesis, etc.
+In the hackathon, we've focused on making the SpatialData framework more accessible. We've organized the documentation with distinct notebooks for beginners, intermediate, and advanced users, and improved the ergonomics of existing methods. These efforts aim to simplify the learning process and enhance usability for all users.
 
-# Discussion
+**Documentation**  
+The SpatialData documentation covers a wide range of topics but can be too technical for newcomers to the field. A goal of this hackathon was to create some new basic tutorials to get starters used to the data format and basic SpatialData functionality. Therefore, we added a new “Intro to SpatialData” tutorial introducing common tasks like reading/writing, plotting, querying, and navigating the SpatialData object. This serves as a hub for users to discover more advanced functionality as needed.
 
-The working group concluded that there is ample scope for logic
-programming in bioinformatics. Future work includes expansion of
-accessing semantic web databases using SPARQLProg, expanding the
-BioLink model, and adding dynamic SPARQL support to miniKanren.
+In the process, we found ourselves needing a new, small yet relevant biological dataset for tutorials to make them more applicable to end-users. A dataset of healthy mouse liver from molecular cartography was chosen[@GUILLIAMS2022379], after being processed and annotated by SPArrOW[@Pollaris2024.07.04.601829]. 
 
-## Acknowledgements
+The latter dataset was used to update the transformation notebook to use a biologically relevant dataset instead of the “raccoon” example (scipy.[misc.face](https://docs.scipy.org/doc/scipy/reference/generated/scipy.misc.face.html#scipy.misc.face)()). We also split this tutorial into two: a basic one, and an intermediate one. See [the PR here](https://github.com/scverse/spatialdata-notebooks/pull/125).
 
-We thank the organizers of the NBDC/DBCLS BioHackathon 2019 for
-travel support for some of the authors.
+For consistency, the same dataset was used to create a draft of a new annotation notebook that explains following aspects (issue [\#749](https://github.com/scverse/spatialdata/issues/749)): 
 
-## Supplemental information
+- Adding spatial structures and annotations for these structures  
+- Create an anndata table summarizing the gene expression per cell  
+- Annotating the cells in the anndata object 
 
-We use pandoc flavoured markdown, similar to Rstudio see \url{https://garrettgman.github.io/rmarkdown/authoring_pandoc_markdown.html}.
+A mock-up for a second dataset has been made, but this will be future work. 
 
-## Tables and figures
+As further improvements to the docs, we added a glossary to the spatialdata docs so that a new user can have a quick look to any term that he doesn’t know yet, such as IO, ROI, NGFF, Zarr, raster, vector, elements. See [this PR](https://github.com/scverse/spatialdata/pull/785).
 
-Tables can be added in the following way, though alternatives are possible:
+For better findability of existing functions, we refactored the display of the API reference. Notably, we now display on the left navigation bar different groups of functions (e.g., SpatialData object, Operations, Transformations, …), while the right navigation bar shows function to navigate through one specific section easily. We also made some minor docs updates, such as improving the docstrings of the query operations. See the above PR.
 
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
+**Ergonomics**  
+A CLI was added to spatialdata-io which allows users to access all readers via command line. For any technology that already had a reader available it is now possible to read the corresponding files into a spatialdata object and write them to a Zarr store with one command. A CLI interface for MCMICRO processed data was also added for interoperability with existing community supported Nextflow pipeline[@schapiroMCMICROScalableModular2022]. In addition, a CLI for loading generic shape objects in form of .geojson files and images in .tiff and .png format was added to load and write into an existing or new zarr store. 
 
-Table: Note that table caption is automatically numbered.
+For convenience, we added a mirror so that spatialdata.io calls spatialdata-io under the hood. If spatialdata-io is not installed, it will raise an error only if a reader is called and the error message details that spatialdata-io should be installed (e.g., via pip). See [this PR](https://github.com/scverse/spatialdata/pull/778).
 
+Finally, within spatialdata-io, we finished updating the seqfish reader (adapted to new output format). Now accounts for different prefixes in filenames, reads scalefactor from DAPI image, can load additional shapes and has more flexible file readers.  
 
-| Term                | MB tools/ontologies using this term | Frequency on Biology Stack Exchange | Search Term         |
-|:-------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------:|
-| Part | iGEM | 9065 | part + parts |
-| Component           | SBOL, SBOLDesigner, SBOLCanvas      | 2163                                | component           |
-| Module              | SBOL                                | 311                                 | module              |
-| Device              |                                     | 677                                 | device              |
-| System              |                                     | 16098                               | system              |
-| RBS                 |                                     | 548                                 | rbs                 |
-| Ribosome Entry Site | SO                                  | 8                                   | ribosome entry site |
+![Visualization of the new lightweight mouse liver dataset used in the documentation[@GUILLIAMS2022379]. Molecular cartography dataset, processed using SPArrOW[@Pollaris2024.07.04.601829].](fig4.png)
 
-LaTeX table:
+## Brainstorming sessions
 
+We also had brainstorming sessions combining people across different groups, described below.
 
+### Store-wide metadata for provenance information (technology, tissue, donor etc.)
 
-\begin{tabular}{|l|l|}\hline
-Age & Frequency \\ \hline
-18--25  & 15 \\
-26--35  & 33 \\
-36--45  & 22 \\ \hline
-\end{tabular}
+We identified the need to store provenance information (technology, tissue, donor, etc) and software metadata (e.g. created and used by SOPA) at the root level of a Zarr SpatialData object. For this a PR (opened before) has been worked on during the hackathon [https://github.com/scverse/spatialdata/pull/711](https://github.com/scverse/spatialdata/pull/711).
 
-## Mermaid graphs
+### Representing relationships between cells/compartments/transcripts/etc.
 
-This is an example of embedding a graph
+Many tools downstream of SpatialData see the need to store relationship information regarding spatial organization between the entities. Such as which points overlap the cells or what the distance between cells is. This amount to find the right balance between the power of a fully-fledged relational database, which would be a cumbersome over-solution for cases where we need to merge two .csv files, and a restricted but ergonomic solution, like AnnData. We concluded that an effective way to proceed is not to endorse/design an approach but provide a public and collaborative list (as a “GitHub Discussion” in the spatialdata repository) to list and existing methods and point to existing code showing their solution. Some of the solutions is to add metadata to the tables (e.g. columns “belong\_to\_cell\_x” and “sample\_y”), a sparse graph representation. Other methods just compute the relationships on-the-fly and do not serialize the results but discard them after using them. [https://github.com/scverse/spatialdata/discussions/788](https://github.com/scverse/spatialdata/discussions/788) 
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+### SpatialData in the cloud
 
-Unfortunately it does not work without the mermaid plugin and that requires headless chrome(?!). If you run the command line version of `gen-pdf` it may be possible to get it to work with the right packages. Please tell us if you succeed.
+We had a conversation on how to store large collections of SpatialData objects in the cloud. The limiting factors that require extra work are: an optimized/indexed storage format for vector geometries–spatial partitioning handled by dask-geopandas seems to be a solution, and metadata storage.
 
-## References
+# Conclusions
+
+The hackathon brought together 20 participants from institutions across the US and Europe, who collaboratively enhanced the usability and interoperability of the SpatialData format and framework. A key achievement was the development of infrastructure prototypes to integrate SpatialData with other frameworks, while also identifying technical challenges that hinder cross-language interoperability. These results, along with new ideas and outstanding tasks, are documented in GitHub issues for further development. In conclusion, we are excited to continue fostering collaboration among communities of analysts, developers, and biologists, advancing towards a FAIR ecosystem of spatial omics tools that bridges diverse expertise and promotes seamless interoperability.
+
+# Acknowledgements
+
+The event was made possible thanks to the support of the Chan Zuckerberg Initiative DAF, via the Single Cell Data Insights Cycle 2 grant.
+
+# References
+
