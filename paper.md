@@ -11,58 +11,58 @@ authors:
     orcid: 0000-0003-3198-1326
     affiliation: 1
   - name: Kevin A. Yamauchi
-    orcid: 
+    orcid: 0000-0002-7818-1388
     affiliation: 2, 3
   - name: Mark S. Keller
-    orcid: 
+    orcid: 0000-0003-3003-874X
     affiliation: 4
   - name: Grzegorz Bokota
-    orcid: 
+    orcid: 0000-0002-5470-1676
     affiliation: 5
   - name: Tong Li
-    orcid: 
+    orcid: 0000-0002-8240-4476
     affiliation: 6
   - name: Sonja Stockhaus
-    orcid: 
+    orcid: 0009-0005-7712-8154
     affiliation: 7
   - name: Benjamin Rombaut
-    orcid: 
+    orcid: 0000-0002-4022-715X
     affiliation: 8, 9, 10
   - name: Louise Deconinck
-    orcid: 
+    orcid: 0000-0001-8100-6823
     affiliation: 8, 9, 10
   - name: Chiara Schiller
-    orcid: 
+    orcid: 0009-0000-3771-2202
     affiliation: 11
   - name: Yixing E. Dong
-    orcid: 
+    orcid: 0000-0001-8355-7282
     affiliation: 12
   - name: Vincent J. Carey
-    orcid: 
+    orcid: 0000-0003-4046-0063
     affiliation: 13, 4
   - name: Helena L. Crowell
-    orcid: 
+    orcid: 0000-0002-4801-1767
     affiliation: 14
   - name: Dario Righelli
-    orcid: 
+    orcid: 0000-0003-1504-3583
     affiliation: 15
   - name: Wouter-Michiel Vierdag
-    orcid: 
+    orcid: 0000-0003-1666-5421
     affiliation: 1, 16
   - name: Miguel A. Ibarra-Arellano
-    orcid: 
+    orcid: 0000-0001-8411-4854
     affiliation: 11
   - name: Lotte Pollaris
-    orcid: 
+    orcid: 0000-0002-9509-9386
     affiliation: 8, 9, 10
   - name: Quentin Blampey
-    orcid: 
+    orcid: 0000-0002-3836-2889
     affiliation: 17, 18
   - name: Clarence Mah
-    orcid: 
+    orcid: 0000-0001-9926-5209
     affiliation: 19, 20
-  - name: Lehner Laurens
-    orcid: 
+  - name: Laurens Lehner
+    orcid: 0000-0001-7690-7168
     affiliation: 7
 
 affiliations:
@@ -98,9 +98,9 @@ affiliations:
     index: 15
   - name: Heidelberg University
     index: 16
-  - name: UPS
+  - name: Paris-Saclay University, CentraleSupélec, Laboratory of Mathematics and Computer Science (MICS), Gif-sur-Yvette, France
     index: 17
-  - name: IGR
+  - name: Paris-Saclay University, Gustave Roussy, Villejuif, France
     index: 18
   - name: SSCIC
     index: 19
