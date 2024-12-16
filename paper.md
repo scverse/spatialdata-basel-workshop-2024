@@ -102,9 +102,9 @@ affiliations:
     index: 17
   - name: Paris-Saclay University, Gustave Roussy, Villejuif, France
     index: 18
-  - name: SSCIC
+  - name: Sanford Stem Cell Institute UC San Diego, CA, USA
     index: 19
-  - name: UCSD
+  - name: University of California San Diego, CA, USA
     index: 20
 
 
