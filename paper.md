@@ -46,6 +46,9 @@ authors:
   - name: Dario Righelli
     orcid: 0000-0003-1504-3583
     affiliation: 15
+  - name: Artür Manukyan
+    orcid: 0000-0002-0441-9517
+    affiliation: 21
   - name: Wouter-Michiel Vierdag
     orcid: 0000-0003-1666-5421
     affiliation: 1, 16
@@ -106,6 +109,8 @@ affiliations:
     index: 19
   - name: University of California San Diego, CA, USA
     index: 20
+  - name: Max Delbrück Center for Molecular Medicine, Berlin Institute for Medical Systems Biology, Berlin, Germany
+    index: 21
 
 
 date: 12 November 2024
