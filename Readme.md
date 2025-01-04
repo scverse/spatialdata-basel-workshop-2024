@@ -1,6 +1,6 @@
 # BioHackRxiv for the SpatialData Developer Workshop
 Basel, 2024
-Pre-print published here: https://osf.io/preprints/osf/u2a6m?view_only=.
+Pre-print published here: [https://osf.io/preprints/osf/u2a6m?view_only=.](https://osf.io/preprints/biohackrxiv/8ck3e).
 
 ## How to Build
 
